@@ -1,0 +1,101 @@
+StudentID,FirstName,LastName,DateOfBirth,Gender,Email,PhoneNumber,EnrollmentDate,Program,Year,GPA
+878201,Joshua,Roberson,2000-04-13,Female,adriana73@example.net,(422)893-5512x653,2011-11-10,Biology,Sophomore,7.1
+598667,Nathan,Dickson,2002-12-21,Female,john32@example.org,001-699-279-6680x660,2006-01-05,Biology,Senior,0.8
+31678,Lori,Howard,2000-01-11,Male,yliu@example.org,393-269-7144x86026,2022-01-06,Business,Senior,5.9
+222,Lindsey,Foster,2003-02-22,Female,cwashington@example.net,691.933.3552x6841,2023-08-23,Biology,Senior,0.0
+386146,Michelle,Lane,2000-10-05,Male,barkerjudy@example.com,+1-653-429-2021x7071,2018-02-17,Engineering,Sophomore,4.9
+952570,April,Davies,2003-02-08,Male,sarahking@example.com,(521)415-3611x85152,2021-12-29,Biology,Junior,0.5
+156252,Katelyn,Johnson,2004-04-13,Female,johnny79@example.com,001-845-307-0177x9919,2022-01-31,Biology,Sophomore,6.4
+825537,Lisa,Weaver,2006-11-28,Female,lmason@example.org,001-221-677-1041,2003-04-20,Business,Junior,8.6
+796260,Earl,Soto,1999-12-15,Male,josephmoore@example.org,660.282.2706x64661,2010-09-15,Computer Science,Senior,9.2
+138018,Amber,Johnson,2004-07-15,Female,zwilliams@example.org,700-773-6780x456,2021-03-19,Computer Science,Freshman,4.2
+772580,Joyce,Green,2006-02-24,Female,ptucker@example.net,999-405-7212,2000-07-31,Engineering,Freshman,8.9
+940529,Brittany,Gonzales,2001-02-20,Female,navarrodylan@example.com,+1-314-584-9969x3954,2013-05-24,Biology,Junior,3.4
+620941,Jeremiah,Salazar,2004-12-15,Male,robert41@example.org,922-776-1897x808,2015-10-05,Biology,Senior,7.3
+1891,Jay,Chen,2006-05-31,Male,nbenjamin@example.net,+1-222-915-1309x3197,2017-02-18,Engineering,Sophomore,3.6
+572878,Casey,Nunez,1999-11-08,Female,abecker@example.com,+1-983-531-3696x7308,2012-01-22,Biology,Senior,1.5
+167972,Timothy,Welch,2006-06-13,Female,joyceroman@example.com,+1-547-232-5792x13723,2011-11-29,Business,Junior,1.7
+926804,Gina,Nelson,2000-01-03,Male,idavidson@example.org,+1-848-904-6848x652,2002-02-12,Biology,Freshman,3.7
+456882,Danielle,Anderson,2004-11-07,Male,elizabethstanley@example.org,745-247-0229,2022-12-07,Computer Science,Junior,5.9
+16698,Mary,Quinn,2005-12-26,Female,lford@example.net,(742)872-1910x14076,2019-07-11,Engineering,Sophomore,8.1
+929643,Alexandra,Castro,2006-03-19,Male,juancampbell@example.org,7208632315,2012-12-20,Computer Science,Senior,1.2
+188610,Daniel,Stein,1999-11-24,Female,preed@example.com,4078062173,2001-02-24,Business,Junior,6.7
+999671,William,Carpenter,2003-10-14,Male,omar98@example.com,574-695-6944x64875,2004-08-20,Computer Science,Freshman,8.7
+38175,Kristin,Sanchez,2000-04-15,Female,harrismichael@example.com,315-844-4206x12090,2022-02-23,Biology,Sophomore,7.5
+260035,Jacob,Davis,2000-11-30,Female,williamhaas@example.org,599-798-3542x0218,2018-04-20,Computer Science,Freshman,6.8
+762386,Debra,Wright,2003-06-29,Male,ascott@example.net,001-582-586-9444x0848,2007-04-19,Biology,Junior,2.7
+802146,Megan,Simpson,2003-04-03,Male,pleonard@example.org,(947)891-1523x082,2002-05-30,Computer Science,Junior,9.4
+361748,Justin,Abbott,1999-11-11,Female,hawkinswilliam@example.net,563-945-9934,2020-05-23,Business,Sophomore,4.6
+136818,Andrea,Williams,2004-07-26,Female,taylortyler@example.net,853.693.5225,2018-04-23,Computer Science,Senior,9.6
+787208,Justin,Blackburn,2001-02-05,Male,schmitttodd@example.net,001-762-694-3648x94754,2016-12-24,Engineering,Junior,1.1
+430215,Bryan,Miller,2001-06-16,Male,patricialamb@example.org,369.741.1333,2017-10-26,Computer Science,Freshman,1.0
+553124,Jorge,Hale,2001-01-02,Female,jamesbrown@example.com,432-894-5528,2020-03-20,Business,Sophomore,7.7
+755327,Derrick,Harmon,2001-10-29,Female,alec32@example.org,890-586-1471x32770,2001-06-29,Engineering,Junior,3.9
+446408,Benjamin,Cohen,2005-10-10,Male,paul03@example.org,(840)852-4641x17439,2001-02-17,Biology,Senior,1.6
+581946,Russell,Bowers,2007-02-07,Female,cassandramorris@example.com,+1-577-257-0435,2013-05-24,Engineering,Junior,6.4
+161679,Dana,Callahan,2001-12-23,Male,matthewescobar@example.org,243-485-7677x141,2015-04-02,Business,Senior,4.2
+915281,Thomas,Buchanan,2001-08-27,Male,castilloheather@example.org,(725)945-2645,2016-03-09,Business,Senior,3.3
+182175,John,Hernandez,2006-07-05,Female,william00@example.net,+1-560-602-0209,2004-09-29,Computer Science,Sophomore,5.5
+103197,Melanie,Johnson,2002-09-25,Male,aweber@example.com,+1-971-562-4418x2407,2001-12-14,Computer Science,Junior,8.7
+434637,David,Cruz,2004-12-25,Female,kerryperkins@example.net,(490)706-0114,2014-11-27,Computer Science,Sophomore,9.5
+626426,Terri,White,2001-07-29,Female,nicoleadams@example.net,661.908.5224,2001-06-20,Engineering,Freshman,5.7
+375040,Mary,Sandoval,2005-02-11,Female,garciadavid@example.net,9349775802,2008-07-05,Biology,Senior,7.7
+42354,Matthew,Waller,2004-09-26,Female,wrightmelanie@example.com,001-748-531-2371x11852,2008-09-28,Engineering,Sophomore,9.6
+181267,Timothy,Marshall,2002-10-23,Male,michael35@example.com,(960)878-1588x705,2012-07-28,Computer Science,Junior,4.7
+749309,David,Greene,2005-07-06,Female,darren39@example.net,(677)690-4812,2012-04-16,Biology,Senior,1.8
+947385,Hector,Keller,2001-10-08,Male,eburke@example.net,303.757.2682x75482,2004-12-06,Biology,Freshman,4.2
+936446,Rachael,Kim,2003-01-14,Male,reedian@example.org,+1-345-392-9949x29745,2000-04-10,Engineering,Freshman,0.7
+845433,Savannah,Willis,2001-10-27,Male,justin00@example.org,001-356-430-2934,2000-04-06,Computer Science,Freshman,6.5
+531772,Jessica,Garcia,1999-07-18,Male,hjohnson@example.com,594-576-2546x4625,2014-05-20,Biology,Junior,1.1
+761151,Kelsey,Mendez,2006-08-18,Male,michael49@example.net,001-493-549-9017x494,2008-08-28,Computer Science,Senior,4.4
+455319,Jessica,Simmons,2005-11-29,Male,cainrenee@example.org,+1-438-680-5226x99211,2006-12-13,Biology,Senior,1.1
+892609,Wendy,Ford,2003-12-04,Male,karen99@example.org,(591)465-8951x832,2005-03-12,Biology,Junior,1.8
+126922,Andrew,Stone,2006-12-22,Female,nicole02@example.org,+1-596-329-8653x9403,2008-01-29,Biology,Junior,4.8
+894722,Luis,Ruiz,2005-06-26,Female,stevenwalls@example.net,001-518-820-2001,2006-03-27,Computer Science,Freshman,7.7
+235502,Amanda,Schwartz,2004-10-14,Male,hollowaysean@example.org,+1-204-283-4813,2007-04-11,Engineering,Senior,0.0
+602498,Ashley,Martinez,2001-06-24,Male,lisa62@example.org,001-838-855-3828x17770,2007-11-04,Business,Junior,0.2
+728125,Edward,Thomas,2005-01-08,Female,kelsey57@example.net,(795)361-9955x342,2020-07-07,Business,Sophomore,7.9
+186177,Katherine,Henson,2002-08-10,Female,cbuchanan@example.com,390.479.4261x4026,2020-02-21,Engineering,Senior,6.8
+298092,April,Howard,2006-11-01,Female,melissa19@example.net,001-291-868-3906,2011-08-14,Computer Science,Sophomore,7.8
+81749,James,Sanchez,2000-07-18,Male,martinezmelanie@example.org,415.406.2881,2016-03-31,Engineering,Freshman,4.3
+502829,Daniel,Calhoun,2004-06-06,Male,castroadam@example.org,+1-676-304-2983x141,2023-12-27,Business,Freshman,1.3
+878466,Anthony,Marshall,2006-03-23,Female,wherrera@example.net,694.499.2477x5027,2021-04-13,Biology,Sophomore,9.4
+875577,Toni,Leonard,1999-10-16,Male,elloyd@example.com,(506)643-1970x338,2019-07-17,Business,Senior,9.4
+590358,Elizabeth,Coleman,1999-03-23,Female,david51@example.net,334-779-3339x698,2014-07-25,Business,Senior,6.7
+686535,Nancy,Franco,2001-04-23,Female,phernandez@example.org,(981)240-6425x2893,2000-03-28,Engineering,Junior,4.3
+53610,Gregory,Williams,2004-10-27,Female,paul91@example.org,001-970-835-2234x3484,2003-02-27,Biology,Sophomore,3.5
+489429,Brittney,Moran,2000-05-02,Female,ydaniel@example.org,3648330121,2017-03-15,Biology,Sophomore,8.8
+856243,Kari,Park,2000-04-01,Female,lawsonbenjamin@example.com,708.817.9776x21665,2008-01-24,Engineering,Senior,4.2
+663929,Mark,Johnson,2002-10-20,Female,josephdaniels@example.org,+1-225-226-6690x4706,2022-05-21,Biology,Junior,7.5
+829944,Daniel,Norman,2005-10-08,Female,jeanneward@example.org,714.627.5135x8422,2022-04-26,Computer Science,Senior,5.9
+562207,Troy,Phillips,2002-07-16,Male,wboyer@example.com,001-260-597-8713x6129,2001-06-17,Computer Science,Junior,6.7
+93514,Tony,Vang,1999-03-27,Male,shawtimothy@example.com,(983)686-3607x696,2011-05-06,Business,Freshman,2.9
+143474,Jessica,Farmer,2004-02-09,Female,heathersantana@example.com,900-791-7478x32570,2018-02-03,Business,Junior,1.8
+483754,Larry,Adams,2002-06-04,Male,jacksontrevor@example.com,+1-970-454-5942x0237,2005-10-09,Computer Science,Junior,6.5
+214328,Harry,Thomas,2002-01-28,Female,navarrosabrina@example.com,297.263.4525,2010-07-22,Business,Junior,7.3
+428206,Marc,Owens,2000-12-04,Female,dwayne32@example.org,(915)830-4848,2022-10-31,Biology,Junior,6.9
+977661,Benjamin,Warner,2005-06-16,Female,vhanson@example.net,001-449-261-7526,2004-10-19,Business,Senior,2.4
+110724,Daisy,Bates,1999-04-18,Female,jamesgraves@example.org,001-912-926-1327x80762,2018-01-22,Business,Senior,2.4
+777359,Teresa,Coffey,2002-11-01,Female,krystal91@example.org,629.979.6310x62408,2001-02-20,Business,Sophomore,0.8
+643227,Sabrina,Anderson,2005-12-19,Female,timothydavis@example.net,320-689-3056,2003-04-18,Engineering,Sophomore,8.9
+476010,Brandon,Mora,2003-01-07,Male,dawn06@example.net,233-582-8028x208,2001-01-20,Computer Science,Sophomore,9.4
+537104,Antonio,Mcgee,2005-08-18,Female,bookerandrew@example.net,720.872.2661x11118,2021-12-05,Business,Junior,0.8
+294792,Lauren,Bailey,2003-05-28,Female,ltaylor@example.org,001-733-335-6093x102,2019-02-26,Computer Science,Sophomore,8.3
+422620,Tonya,Miller,2006-04-19,Female,andersonjustin@example.com,(209)602-4748,2023-05-10,Business,Freshman,4.6
+787802,Mary,Washington,2006-06-04,Female,williamskendra@example.net,(609)332-6361x6026,2002-06-29,Business,Sophomore,7.6
+912869,Kathryn,Mckay,1999-03-29,Male,josephrubio@example.org,5224622606,2003-02-10,Biology,Junior,1.7
+46013,Carrie,Foster,2007-01-18,Male,osmith@example.org,240-679-6404,2020-11-05,Biology,Junior,7.3
+73520,James,Guzman,2003-10-11,Female,jesuslee@example.net,001-602-778-4124,2021-09-13,Business,Junior,6.4
+49458,Edwin,Hernandez,2002-04-22,Male,caitlyn10@example.org,477-463-5538x324,2019-07-10,Computer Science,Junior,2.4
+940397,Travis,Holland,2001-09-03,Male,kmcfarland@example.net,(414)830-0202x9336,2012-06-27,Biology,Senior,4.9
+615698,Carol,Watkins,2003-01-01,Male,lewispaula@example.com,381.778.7496x918,2003-09-11,Business,Senior,7.8
+722511,Keith,Melton,2002-03-13,Male,evan77@example.net,883-896-1718x8260,2004-01-24,Computer Science,Freshman,1.0
+205818,Brandon,Jacobs,1999-12-04,Male,kathleenzhang@example.net,001-936-451-4882x4864,2001-08-13,Biology,Freshman,3.7
+288771,Richard,Williams,2002-02-13,Female,debbie80@example.com,(494)289-3417,2001-08-16,Business,Junior,6.9
+265468,Kathleen,Robinson,2003-01-02,Female,angelahammond@example.net,001-280-250-2143x8526,2000-03-19,Computer Science,Junior,1.0
+537293,Rachel,Johnson,2006-05-04,Female,conwaytheresa@example.com,(275)288-8763x2809,2020-12-21,Business,Junior,5.1
+21380,Vanessa,Mason,2001-08-14,Female,jeffrey17@example.net,651.503.4664x276,2021-04-04,Biology,Sophomore,6.4
+276968,Erica,Brown,1999-11-06,Male,ryan39@example.com,3475252449,2012-07-22,Computer Science,Junior,2.8
+110175,Tammy,Richards,2002-10-14,Male,ericawood@example.com,(704)787-7628x3955,2018-02-26,Biology,Freshman,5.0
+763712,Janet,Stewart,2006-11-26,Male,ronald04@example.net,001-332-622-4307x6482,2003-02-19,Computer Science,Junior,8.2
+969806,William,Rush,2006-02-01,Female,stacy26@example.org,+1-823-281-6332x3201,2025-01-09,Business,Junior,5.9
